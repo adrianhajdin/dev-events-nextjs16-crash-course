@@ -57,7 +57,7 @@ export const events: EventItem[] = [
     time: "10:00 AM",
   },
   {
-    image: "/images/events-full.png",
+    image: "/images/event-full.png",
     title: "Open Source Summit North America 2026",
     slug: "oss-na-2026",
     location: "Vancouver, Canada",
